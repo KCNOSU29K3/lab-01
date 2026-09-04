@@ -1,11 +1,11 @@
 # CMPUT 301: Lab 1 Participation Exercise
 
 ## Student Details
-- **Full Name:** `<Enter name>`
-- **CCID:** `<Enter ccid>`
+- **Full Name:** `Wyatt Garrioch`
+- **CCID:** `wgarrioc`
 
 ## References and Resources
-List any resources used here, or simply put `N/A` if not applicable.
+https://github.com/cmput301-f26/lab-01 - Specification for PetApp.
 
 ## Verbal Collaboration
-List students' names and CCIDs here, or simply put `N/A` if not applicable. 
+N/A
